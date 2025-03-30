@@ -1,0 +1,55 @@
+```json
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "WebSolutions Ltd.",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "Firebase"],
+    "match": 0,
+    "description": "Seeking a skilled Frontend Developer to create engaging and responsive user interfaces for our web applications.",
+    "salary": "₹6,50,000 - ₹9,00,000",
+    "saved": false,
+    "requiredSkillDetails": {
+      "JavaScript": "Proficient in modern JavaScript frameworks and libraries.",
+      "React": "Experience with component-based architecture and state management.",
+      "HTML": "Strong understanding of semantic HTML and accessibility standards.",
+      "CSS": "Expertise in CSS preprocessors and responsive design.",
+      "Firebase": "Experience with Firebase authentication and database management."
+    }
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Developer",
+    "company": "DesignCraft Studios",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "Tailwind CSS"],
+    "match": 0,
+    "description": "Join our creative team to design and develop intuitive user interfaces and enhance user experience.",
+    "salary": "₹7,00,000 - ₹9,50,000",
+    "saved": false,
+    "requiredSkillDetails": {
+      "JavaScript": "Knowledge of UI/UX principles and design patterns.",
+      "React": "Experience with creating interactive and dynamic UIs.",
+      "HTML": "Understanding of web accessibility and SEO best practices.",
+      "CSS": "Proficiency in CSS animations and transitions.",
+      "Tailwind CSS": "Experience using Tailwind CSS for rapid UI development."
+    }
+  },
+  {
+    "id": 3,
+    "title": "Junior Web Developer",
+    "company": "Code Innovators Inc.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "MySQL"],
+    "match": 0,
+    "description": "Exciting opportunity for a Junior Web Developer to work on cutting-edge projects and learn new technologies.",
+    "salary": "₹5,50,000 - ₹8,00,000",
+    "saved": false,
+    "requiredSkillDetails": {
+      "HTML": "Solid understanding of HTML structure and best practices.",
+      "CSS": "Ability to style web pages effectively using CSS.",
+      "JavaScript": "Basic knowledge of JavaScript programming.",
+      "React": "Familiarity with React component lifecycle and state management.",
+      "MySQL": "Experience with relational databases and SQL queries."
+    }
+  }
+]
+```

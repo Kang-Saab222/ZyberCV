@@ -1,0 +1,62 @@
+```json
+{
+  "candidate": {
+    "name": "Alice Johnson",
+    "currentRole": "Lead Software Engineer",
+    "yearsExperience": 8,
+    "education": "Ph.D. in Software Engineering",
+    "location": "New York, NY",
+    "email": "alice.johnson@email.com",
+    "phone": "(212) 555-7777",
+    "linkedin": "linkedin.com/in/alicejohnson",
+    "photoUrl": "/api/placeholder/80/80"
+  },
+  "skillsAnalysis": {
+    "technical": [
+      { "name": "Python", "level": 92 },
+      { "name": "Java", "level": 88 },
+      { "name": "C++", "level": 75 },
+      { "name": "SQL", "level": 85 },
+      { "name": "AWS", "level": 80 },
+      { "name": "Docker", "level": 70 },
+      { "name": "Kubernetes", "level": 65 }
+    ],
+    "soft": [
+      { "name": "Mentoring", "level": 88 },
+      { "name": "Strategic Planning", "level": 82 },
+      { "name": "Cross-functional Collaboration", "level": 90 },
+      { "name": "Conflict Resolution", "level": 78 },
+      { "name": "Change Management", "level": 85 }
+    ],
+    "jobMatchPercentage": 91
+  },
+  "experienceInsights": {
+    "domains": [
+      { "name": "Software Engineering", "years": 8 },
+      { "name": "Cloud Computing", "years": 5 },
+      { "name": "Data Science", "years": 3 },
+      { "name": "Machine Learning", "years": 2 }
+    ],
+    "educationRelevance": 95,
+    "roles": [
+      { "title": "Lead Software Engineer", "company": "GlobalTech Solutions", "duration": "2020-Present" },
+      { "title": "Senior Software Engineer", "company": "Innovate Systems Inc.", "duration": "2017-2020" },
+      { "title": "Software Engineer", "company": "Dynamic Code Ltd.", "duration": "2016-2017" }
+    ]
+  },
+  "improvements": [
+    { "date": "2025-03-29 11:45 AM", "fileName": "Resume_V2.0.pdf", "improvementPercent": 15, "notes": "Quantified impact of key projects." },
+    { "date": "2025-03-28 04:30 PM", "fileName": "Resume_V1.5.pdf", "improvementPercent": 10, "notes": "Refined action verbs for greater impact." },
+    { "date": "2025-03-27 09:00 AM", "fileName": "Resume_V1.0.pdf", "improvementPercent": 7, "notes": "Expanded upon contributions to open-source projects." }
+  ],
+  "marketAnalysis": {
+    "salaryRange": { "min": 150000, "max": 200000, "average": 175000 },
+    "demandScore": 90,
+    "competitiveAdvantage": [
+      { "skill": "Python", "advantage": "Very High" },
+      { "skill": "AWS", "advantage": "High" },
+      { "skill": "Mentoring", "advantage": "Medium" }
+    ]
+  }
+}
+```

@@ -1,0 +1,129 @@
+```json
+{
+  "candidate": {
+    "name": "Vansh Bhatia",
+    "currentRole": "Frontend Developer",
+    "yearsExperience": 1,
+    "education": "Bachelor of Computer Applications",
+    "location": "Ludhiana, Punjab",
+    "email": "vanshbhatia12arts@gmail.com",
+    "phone": "+91 62847-16671",
+    "linkedin": "linkedin.com/in/vansh-bhatia-b4998723b",
+    "photoUrl": "/api/placeholder/80/80"
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "React",
+        "level": 75
+      },
+      {
+        "name": "JavaScript",
+        "level": 80
+      },
+      {
+        "name": "HTML",
+        "level": 70
+      },
+      {
+        "name": "CSS",
+        "level": 70
+      },
+      {
+        "name": "MySQL",
+        "level": 60
+      },
+      {
+        "name": "Firebase",
+        "level": 65
+      },
+      {
+        "name": "PHP",
+        "level": 55
+      }
+    ],
+    "soft": [
+      {
+        "name": "Team Management",
+        "level": 70
+      },
+      {
+        "name": "Collaboration",
+        "level": 75
+      },
+      {
+        "name": "Leadership",
+        "level": 65
+      },
+      {
+        "name": "Adaptability",
+        "level": 80
+      }
+    ],
+    "jobMatchPercentage": 68
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "Frontend Development",
+        "years": 1
+      },
+      {
+        "name": "Desktop Support",
+        "years": 0.2
+      }
+    ],
+    "educationRelevance": 75,
+    "roles": [
+      {
+        "title": "Desktop Support Engineer",
+        "company": "Prajapati Multibiz Company",
+        "duration": "December 2023-present"
+      },
+      {
+        "title": "Training in React js",
+        "company": "ThinkNext Technologies",
+        "duration": "45 days"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2025-03-28 10:30 AM",
+      "fileName": "Resume_V1.1.pdf",
+      "improvementPercent": 10,
+      "notes": "Highlight academic achievements more prominently"
+    },
+    {
+      "date": "2025-03-27 03:15 PM",
+      "fileName": "Resume_V1.0.pdf",
+      "improvementPercent": 8,
+      "notes": "Expand on responsibilities in project descriptions"
+    },
+    {
+      "date": "2025-03-26 01:45 PM",
+      "fileName": "Resume_V0.9.pdf",
+      "improvementPercent": 12,
+      "notes": "Quantify results from work experience"
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 40000,
+      "max": 70000,
+      "average": 55000
+    },
+    "demandScore": 65,
+    "competitiveAdvantage": [
+      {
+        "skill": "React",
+        "advantage": "Medium"
+      },
+      {
+        "skill": "Team Management",
+        "advantage": "Low"
+      }
+    ]
+  }
+}
+```

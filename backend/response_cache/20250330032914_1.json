@@ -1,0 +1,128 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "React Js Intern",
+    "yearsExperience": 0,
+    "education": "Bachelor of Computer Application",
+    "location": "Ldh, India",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 70
+      },
+      {
+        "name": "Photoshop",
+        "level": 40
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 75
+      },
+      {
+        "name": "JavaScript",
+        "level": 65
+      },
+      {
+        "name": "C/C++",
+        "level": 50
+      },
+      {
+        "name": "React JS",
+        "level": 55
+      },
+      {
+        "name": "Java",
+        "level": 30
+      }
+    ],
+    "soft": [
+      {
+        "name": "Research",
+        "level": 80
+      },
+      {
+        "name": "Presentation Skills",
+        "level": 75
+      },
+      {
+        "name": "Passionate Learner",
+        "level": 90
+      },
+      {
+        "name": "Time Management",
+        "level": 70
+      }
+    ],
+    "jobMatchPercentage": 65
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "React Development",
+        "years": 0
+      },
+      {
+        "name": "Web Application",
+        "years": 0
+      }
+    ],
+    "educationRelevance": 85,
+    "roles": [
+      {
+        "title": "React Js Intern",
+        "company": "Think Next Technologies Pvt. Ltd",
+        "duration": "40 Days"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2024-07-18 05:45 PM",
+      "fileName": "Resume_V1.1.pdf",
+      "improvementPercent": 15,
+      "notes": "Quantified achievements and added project details"
+    },
+    {
+      "date": "2024-07-17 02:20 PM",
+      "fileName": "Resume_V1.0.pdf",
+      "improvementPercent": 10,
+      "notes": "Revised the skills section and added ratings"
+    },
+    {
+      "date": "2024-07-16 09:10 AM",
+      "fileName": "Resume_V0.9.pdf",
+      "improvementPercent": 8,
+      "notes": "Improved job description to include specific tasks"
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 30000,
+      "max": 50000,
+      "average": 40000
+    },
+    "demandScore": 60,
+    "competitiveAdvantage": [
+      {
+        "skill": "React JS",
+        "advantage": "Medium"
+      },
+      {
+        "skill": "Python",
+        "advantage": "Medium"
+      },
+      {
+        "skill": "Presentation Skills",
+        "advantage": "Low"
+      }
+    ]
+  }
+}
+```

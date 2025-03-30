@@ -1,0 +1,57 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "React Js Intern",
+    "yearsExperience": 0,
+    "education": "Bachelor of Computer Application",
+    "location": "Alamgir, Ldh(141116)",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      { "name": "Python", "level": 60 },
+      { "name": "Photoshop", "level": 30 },
+      { "name": "HTML & CSS", "level": 50 },
+      { "name": "JavaScript", "level": 40 },
+      { "name": "C/C++", "level": 45 },
+      { "name": "React JS", "level": 25 },
+      { "name": "Java", "level": 15 }
+    ],
+    "soft": [
+      { "name": "Research", "level": 70 },
+      { "name": "Presentation Skills", "level": 60 },
+      { "name": "Time Management", "level": 50 },
+      { "name": "Learning", "level": 80 }
+    ],
+    "jobMatchPercentage": 35
+  },
+  "experienceInsights": {
+    "domains": [
+      { "name": "React Development", "years": 0.1 },
+      { "name": "E-commerce Website", "years": 0.1 }
+    ],
+    "educationRelevance": 75,
+    "roles": [
+      { "title": "React Js Intern", "company": "THINK NEXT TECHNOLOGIES PVT. LTD", "duration": "40 DAYS" }
+    ]
+  },
+  "improvements": [
+    { "date": "2025-03-28 10:30 AM", "fileName": "Resume_V1.1.pdf", "improvementPercent": 5, "notes": "Added GitHub Profile" },
+    { "date": "2025-03-27 03:15 PM", "fileName": "Resume_V1.0.pdf", "improvementPercent": 2, "notes": "Included personal projects" },
+    { "date": "2025-03-26 01:45 PM", "fileName": "Resume_V0.9.pdf", "improvementPercent": 3, "notes": "Added a personal statement" }
+  ],
+  "marketAnalysis": {
+    "salaryRange": { "min": 40000, "max": 60000, "average": 50000 },
+    "demandScore": 50,
+    "competitiveAdvantage": [
+      { "skill": "Python", "advantage": "Low" },
+      { "skill": "React JS", "advantage": "Very Low" },
+      { "skill": "Learning", "advantage": "Medium" }
+    ]
+  }
+}
+```

@@ -1,0 +1,104 @@
+{
+  "metrics": {
+    "overallScore": 45,
+    "confidence": 50,
+    "technicalScore": 40,
+    "communicationScore": 55
+  },
+  "keyInsights": [
+    "The candidate's responses are often vague and lack specific details.",
+    "There are significant grammatical errors and clarity issues in the candidate's communication.",
+    "The candidate mentions training at Think Next but doesn't provide concrete examples of React JS experience.",
+    "The candidate seems to have some exposure to generative AI models but struggles to articulate the specifics of their implementation.",
+    "The candidate's experience with the YouTube downloader appears to be negative, but the reasoning is unclear."
+  ],
+  "improvementAreas": [
+    "Practice articulating technical concepts clearly and concisely.",
+    "Focus on providing specific examples to support claims about experience.",
+    "Improve grammatical accuracy and overall communication skills.",
+    "Prepare to discuss challenges encountered in projects and how they were overcome."
+  ],
+  "strengths": [
+    {
+      "title": "Exposure to AI",
+      "description": "The candidate has been exposed to generative AI models like Croma AI."
+    },
+    {
+      "title": "Research Experience",
+      "description": "The candidate has experience writing a research paper in Software Engineering."
+    },
+    {
+      "title": "Project Involvement",
+      "description": "The candidate mentions working on multiple projects, including a YouTube downloader and projects using React JS."
+    }
+  ],
+  "focusAreas": [
+    {
+      "title": "Specificity in Responses",
+      "description": "Focus on providing detailed and specific examples when describing your experience. Avoid vague statements.",
+      "tip": "Use the STAR method (Situation, Task, Action, Result) to structure your answers and provide context."
+    },
+    {
+      "title": "Technical Communication",
+      "description": "Practice explaining technical concepts in a clear and understandable manner. Use precise language and avoid jargon where possible.",
+      "tip": "Imagine you're explaining the concept to someone with a non-technical background. Break down complex ideas into simpler terms."
+    },
+    {
+      "title": "Grammar and Clarity",
+      "description": "Pay close attention to grammar and sentence structure to ensure your communication is clear and easy to understand.",
+      "tip": "Practice speaking slowly and deliberately, focusing on clear articulation. Consider using online grammar tools to review your writing."
+    }
+  ],
+  "questionResponses": [
+    {
+      "question": "*   Can you describe your experience with React JS in your work at Think Next?",
+      "response": "so I am working thinking just for 40 days training in my June and I have learnt will you sing something I make things was using reaches",
+      "responseScore": 30,
+      "feedback": "This response is unclear and doesn't provide specific details about React JS experience. It is grammatically incorrect and difficult to understand. The candidate needs to articulate the kind of projects they worked on using React, what they built, and what specific React features they utilized. Need more details and clarification."
+    },
+    {
+      "question": "*   Can you elaborate on your experience with generative AI models in React JS?",
+      "response": "during the training I have Double blanks table diffusion model which was called Croma AI and it is a imagination model with unit the images according to the text from",
+      "responseScore": 45,
+      "feedback": "The candidate mentions using a diffusion model (Croma AI) but doesn't explain how it was integrated with React JS. The explanation is vague. They need to provide more details on the specific AI models used, how they interacted with React, and the overall architecture of the application."
+    },
+    {
+      "question": "*   Explain how you integrated an AI model into the Python website.",
+      "response": "during the training I have Double blanks table diffusion model which was called Croma AI and it is a imagination model with unit the images according to the text from",
+      "responseScore": 50,
+      "feedback": "The response is a bit repetitive and doesn't provide sufficient detail on the integration process. The candidate needs to specify the steps taken to integrate the AI model into the Python website and provide technical details on the implementation."
+    },
+    {
+      "question": "*   What challenges did you face while working on the YouTube downloader?",
+      "response": " it was a very bad experience to scraping the YouTube and getting the downloading",
+      "responseScore": 40,
+      "feedback": "The response mentions a negative experience with scraping YouTube but doesn't explain the specific challenges faced. The candidate needs to elaborate on the technical difficulties encountered, such as dealing with API changes, rate limiting, or copyright issues."
+    },
+    {
+      "question": "*   Tell me about your research paper on \"Software Engineering\".",
+      "response": "at pct ICMR I have written a software engineer search paper with my core researcher Kareena Sako and it was very great experience and we got very help from pct and",
+      "responseScore": 60,
+      "feedback": "The response briefly mentions the research paper but lacks details about the topic, methodology, and findings. The candidate needs to provide more information about the research, including the specific area of software engineering explored and their contribution to the paper."
+    },
+    {
+      "question": "*   Could you describe a project where your presentation skills were valuable?",
+      "response": "at pct ICMR I have written a software engineer search paper with my core researcher Kareena Sako and it was very great experience and we got very help from pct and",
+      "responseScore": 20,
+      "feedback": "The candidate does not seem to understand the question. The answer is unrelated to presentation skills."
+    }
+  ],
+  "nextSteps": [
+    {
+      "title": "Practice Mock Interviews",
+      "description": "Practicing answering common interview questions will help improve confidence and clarity."
+    },
+    {
+      "title": "Review Technical Fundamentals",
+      "description": "A strong foundation in technical fundamentals will enable the candidate to answer questions more confidently and accurately."
+    },
+    {
+      "title": "Improve Grammar and Communication",
+      "description": "Clear communication is crucial for conveying technical information and demonstrating competence."
+    }
+  ]
+}

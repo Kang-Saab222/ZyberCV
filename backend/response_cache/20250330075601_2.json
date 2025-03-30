@@ -1,0 +1,122 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "React Js Intern",
+    "yearsExperience": 0,
+    "education": "Bachelor of Computer Application",
+    "location": "Alamgir, Ldh",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 60
+      },
+      {
+        "name": "Photoshop",
+        "level": 40
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 70
+      },
+      {
+        "name": "JavaScript",
+        "level": 50
+      },
+      {
+        "name": "C/C++",
+        "level": 45
+      },
+      {
+        "name": "React JS",
+        "level": 30
+      },
+      {
+        "name": "Java",
+        "level": 20
+      }
+    ],
+    "soft": [
+      {
+        "name": "Research",
+        "level": 75
+      },
+      {
+        "name": "Presentation Skills",
+        "level": 65
+      },
+      {
+        "name": "Passionate Learner",
+        "level": 90
+      },
+      {
+        "name": "Time Management",
+        "level": 80
+      }
+    ],
+    "jobMatchPercentage": 45
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "Web Development",
+        "years": 0.1
+      },
+      {
+        "name": "AI Integration",
+        "years": 0.1
+      }
+    ],
+    "educationRelevance": 70,
+    "roles": [
+      {
+        "title": "React Js Intern",
+        "company": "THINK NEXT TECHNOLOGIES PVT. LTD",
+        "duration": "40 DAYS"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2024-04-29 14:22 PM",
+      "fileName": "Karanvir_Resume_v1.pdf",
+      "improvementPercent": 5,
+      "notes": "Added project links"
+    },
+    {
+      "date": "2024-04-29 14:18 PM",
+      "fileName": "Karanvir_Resume_v0.pdf",
+      "improvementPercent": 3,
+      "notes": "Organized awards and achievements"
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 30000,
+      "max": 50000,
+      "average": 40000
+    },
+    "demandScore": 50,
+    "competitiveAdvantage": [
+      {
+        "skill": "HTML & CSS",
+        "advantage": "Low"
+      },
+      {
+        "skill": "Python",
+        "advantage": "Medium"
+      },
+      {
+        "skill": "Research",
+        "advantage": "Medium"
+      }
+    ]
+  }
+}
+```

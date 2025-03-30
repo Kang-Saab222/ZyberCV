@@ -1,0 +1,118 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "Innovative Developer & Researcher",
+    "yearsExperience": 0.11,
+    "education": "Bachelor of Computer Application",
+    "location": "Alamgir, Ludhiana",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 70
+      },
+      {
+        "name": "Photoshop",
+        "level": 30
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 75
+      },
+      {
+        "name": "JavaScript",
+        "level": 60
+      },
+      {
+        "name": "C/C++",
+        "level": 45
+      },
+      {
+        "name": "React JS",
+        "level": 55
+      },
+      {
+        "name": "Java",
+        "level": 25
+      }
+    ],
+    "soft": [
+      {
+        "name": "Research",
+        "level": 80
+      },
+      {
+        "name": "Presentation Skills",
+        "level": 70
+      },
+      {
+        "name": "Time Management",
+        "level": 65
+      },
+      {
+        "name": "Passionate Learner",
+        "level": 90
+      }
+    ],
+    "jobMatchPercentage": 35
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "Web Development",
+        "years": 0.11
+      },
+      {
+        "name": "AI Integration",
+        "years": 0.11
+      }
+    ],
+    "educationRelevance": 60,
+    "roles": [
+      {
+        "title": "React Js Intern",
+        "company": "THINK NEXT TECHNOLOGIES PVT. LTD",
+        "duration": "40 DAYS"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2024-10-27 07:22 PM",
+      "fileName": "Resume_Karanvir.pdf",
+      "improvementPercent": 5,
+      "notes": "Focus more on quantitative impact of project work."
+    },
+    {
+      "date": "2024-10-26 02:45 PM",
+      "fileName": "Resume_Karanvir_v1.pdf",
+      "improvementPercent": 3,
+      "notes": "Expand on the responsibilities and technologies used in the internship."
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 30000,
+      "max": 50000,
+      "average": 40000
+    },
+    "demandScore": 40,
+    "competitiveAdvantage": [
+      {
+        "skill": "Python",
+        "advantage": "Low"
+      },
+      {
+        "skill": "React JS",
+        "advantage": "Low"
+      }
+    ]
+  }
+}
+```

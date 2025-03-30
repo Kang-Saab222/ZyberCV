@@ -1,0 +1,132 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "Innovative Developer & Researcher",
+    "yearsExperience": 0.11,
+    "education": "Bachelor of Computer Application",
+    "location": "Alamgir, Ldh(141116)",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 70
+      },
+      {
+        "name": "Photoshop",
+        "level": 40
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 60
+      },
+      {
+        "name": "JavaScript",
+        "level": 50
+      },
+      {
+        "name": "C/C++",
+        "level": 55
+      },
+      {
+        "name": "React JS",
+        "level": 45
+      },
+      {
+        "name": "Java",
+        "level": 30
+      }
+    ],
+    "soft": [
+      {
+        "name": "Research",
+        "level": 75
+      },
+      {
+        "name": "Presentation Skills",
+        "level": 65
+      },
+      {
+        "name": "Passionate Learner",
+        "level": 80
+      },
+      {
+        "name": "Time Management",
+        "level": 70
+      }
+    ],
+    "jobMatchPercentage": 68
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "React JS Development",
+        "years": 0.11
+      },
+      {
+        "name": "E-commerce",
+        "years": 0.11
+      },
+      {
+        "name": "AI Model Implementation",
+        "years": 0.11
+      }
+    ],
+    "educationRelevance": 85,
+    "roles": [
+      {
+        "title": "React Js Intern",
+        "company": "THINK NEXT TECHNOLOGIES PVT. LTD",
+        "duration": "40 DAYS"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2025-03-28 11:15 AM",
+      "fileName": "Resume_V1.1.pdf",
+      "improvementPercent": 15,
+      "notes": "Improved project descriptions with technical details."
+    },
+    {
+      "date": "2025-03-27 04:45 PM",
+      "fileName": "Resume_V1.0.pdf",
+      "improvementPercent": 10,
+      "notes": "Added quantifiable achievements in Awards section."
+    },
+    {
+      "date": "2025-03-26 02:30 PM",
+      "fileName": "Resume_V0.9.pdf",
+      "improvementPercent": 18,
+      "notes": "Enhanced skills section based on project experience."
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 60000,
+      "max": 80000,
+      "average": 70000
+    },
+    "demandScore": 75,
+    "competitiveAdvantage": [
+      {
+        "skill": "Python",
+        "advantage": "Medium"
+      },
+      {
+        "skill": "React JS",
+        "advantage": "Low"
+      },
+      {
+        "skill": "Presentation Skills",
+        "advantage": "Medium"
+      }
+    ]
+  }
+}
+```

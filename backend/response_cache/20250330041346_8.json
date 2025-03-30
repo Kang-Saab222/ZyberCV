@@ -1,0 +1,55 @@
+```json
+[
+  {
+    "id": 1,
+    "title": "Junior Frontend Developer",
+    "company": "WebSolutions Ltd.",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "Firebase"],
+    "match": 0,
+    "description": "We are seeking a motivated junior frontend developer to help build user-friendly interfaces for our web applications. You will work closely with our senior developers to learn and grow your skills.",
+    "salary": "₹3,50,000 - ₹5,00,000",
+    "saved": false,
+    "requiredSkillDetails": {
+      "JavaScript": "Basic understanding of ES6+ syntax and DOM manipulation.",
+      "React": "Familiarity with React components, props, and state.",
+      "HTML": "Proficient in creating semantic and accessible HTML markup.",
+      "CSS": "Knowledge of CSS fundamentals and responsive design.",
+      "Firebase": "Experience with Firebase services like authentication and database."
+    }
+  },
+  {
+    "id": 2,
+    "title": "Frontend Engineer Intern",
+    "company": "CodeCrafters Inc.",
+    "skills": ["React", "JavaScript", "CSS", "HTML", "Tailwind CSS"],
+    "match": 0,
+    "description": "Join our internship program and gain hands-on experience in building modern web applications. You will be responsible for implementing UI components, writing tests, and collaborating with other engineers.",
+    "salary": "₹1,80,000 - ₹2,40,000 (Stipend)",
+    "saved": false,
+    "requiredSkillDetails": {
+      "React": "Experience with creating and maintaining React components.",
+      "JavaScript": "Solid grasp of JavaScript concepts and best practices.",
+      "CSS": "Experience with CSS styling and layout techniques.",
+      "HTML": "Strong understanding of HTML structure and semantics.",
+      "Tailwind CSS": "Familiarity with Tailwind CSS framework."
+    }
+  },
+  {
+    "id": 3,
+    "title": "Associate Web Developer",
+    "company": "DigitalDynamics Corp.",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    "match": 0,
+    "description": "We are looking for an associate web developer to assist in maintaining and enhancing our existing web applications. You will work on both frontend and backend tasks.",
+    "salary": "₹4,00,000 - ₹6,00,000",
+    "saved": false,
+    "requiredSkillDetails": {
+      "HTML": "Excellent knowledge of HTML5 and accessibility.",
+      "CSS": "Experience with CSS preprocessors and responsive design.",
+      "JavaScript": "Proficient in vanilla JavaScript and common libraries.",
+      "PHP": "Basic knowledge of PHP programming language.",
+      "MySQL": "Experience with database management and querying."
+    }
+  }
+]
+```

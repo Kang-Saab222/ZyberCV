@@ -1,0 +1,98 @@
+{
+  "metrics": {
+    "overallScore": 25,
+    "confidence": 30,
+    "technicalScore": 15,
+    "communicationScore": 40
+  },
+  "keyInsights": [
+    "The candidate's responses are very brief and lack detail.",
+    "There's a noticeable lack of experience in several key areas like Tailwind CSS and responsiveness.",
+    "The candidate struggles to articulate their experience clearly.",
+    "The answers suggest a limited understanding of core web development concepts.",
+    "The candidate's reliance on external validation (e.g., 'you know better') is unprofessional."
+  ],
+  "improvementAreas": [
+    "Develop more in-depth knowledge of React.js and related technologies.",
+    "Practice articulating technical concepts clearly and concisely.",
+    "Gain practical experience with responsive design principles and CSS frameworks.",
+    "Improve professional communication skills during interviews."
+  ],
+  "strengths": [
+    {
+      "title": "Willingness to Learn",
+      "description": "The candidate expresses a desire to learn more about React.js."
+    },
+    {
+      "title": "Acknowledgement of Limitations",
+      "description": "The candidate is honest about their lack of experience with certain technologies."
+    },
+    {
+      "title": "Project Involvement",
+      "description": "The candidate mentions involvement in projects, suggesting some practical exposure."
+    }
+  ],
+  "focusAreas": [
+    {
+      "title": "Technical Depth",
+      "description": "Focus on gaining a deeper understanding of core web development concepts and technologies.",
+      "tip": "Choose a few technologies (e.g., React, Tailwind CSS) and build small projects to solidify your understanding."
+    },
+    {
+      "title": "Communication Skills",
+      "description": "Practice explaining technical concepts clearly and concisely, avoiding vague statements.",
+      "tip": "Record yourself answering common interview questions and analyze your responses for clarity and completeness."
+    },
+    {
+      "title": "Professionalism",
+      "description": "Maintain a professional demeanor during interviews and avoid relying on external validation or making excuses.",
+      "tip": "Prepare for common interview questions and practice answering them in a professional manner, focusing on your own accomplishments and skills."
+    }
+  ],
+  "questionResponses": [
+    {
+      "question": "1. Explain your experience with React.js and how you have used it.",
+      "response": "I have used regson various of my projects and now I want to learn it more",
+      "responseScore": 30,
+      "feedback": "The response is very vague. It doesn't specify which projects or how React.js was used. More detail and specific examples are needed. The misspelling of 'React' as 'regson' detracts from credibility."
+    },
+    {
+      "question": "2. How have you integrated Firebase in your StreamWave project?",
+      "response": "with the help of load and charge it",
+      "responseScore": 10,
+      "feedback": "This response is unclear and lacks technical detail. 'Load and charge' are not standard terms in Firebase integration. A better answer would explain which Firebase services were used (e.g., Authentication, Firestore) and how they were integrated into the project."
+    },
+    {
+      "question": "3. Describe your experience with Tailwind CSS and Material UI.",
+      "response": "no experience",
+      "responseScore": 50,
+      "feedback": "While honesty is appreciated, stating 'no experience' presents a gap in skills. This should be followed up with a willingness to learn."
+    },
+    {
+      "question": "4. How do you ensure your applications are responsive and user-friendly?",
+      "response": "they are not responsive or user friendly",
+      "responseScore": 0,
+      "feedback": "This is a very concerning response. Responsiveness and user-friendliness are crucial aspects of modern web development. This indicates a significant lack of understanding and application of best practices."
+    },
+    {
+      "question": "5. What backend experience do you have with PHP and MySQL?",
+      "response": "we have learnt this from Punitha ma'am so you know better",
+      "responseScore": 10,
+      "feedback": "This response is highly unprofessional. It deflects the question and doesn't provide any information about the candidate's own experience. It's crucial to demonstrate individual skills and knowledge, not rely on the interviewer's presumed knowledge."
+    }
+  ],
+  "nextSteps": [
+    {
+      "title": "Focused Learning",
+      "description": "Focus on gaining practical experience through hands-on projects."
+    },
+    {
+      "title": "Practice Answering Interview Questions",
+      "description": "Seek feedback on your responses from mentors or peers."
+    },
+    {
+      "title": "Build a Portfolio",
+      "description": "Include detailed descriptions of your contributions and the technologies you used."
+    }
+  ]
+}

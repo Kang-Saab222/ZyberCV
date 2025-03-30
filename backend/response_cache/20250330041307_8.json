@@ -1,0 +1,55 @@
+```json
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "WebSolutions Ltd.",
+    "skills": ["JavaScript", "React.js", "HTML", "CSS", "Firebase"],
+    "match": 0,
+    "description": "We're seeking a dedicated Frontend Developer to create engaging user interfaces and enhance our existing web applications. Proficiency in React.js and Firebase is highly valued.",
+    "salary": "₹6,50,000 - ₹9,00,000",
+    "saved": false,
+    "requiredSkillDetails": {
+      "JavaScript": "Solid understanding of modern JavaScript frameworks and libraries.",
+      "React.js": "Experience building reusable components and managing application state.",
+      "HTML": "Proficient in semantic HTML and web accessibility standards.",
+      "CSS": "Expertise in CSS frameworks and responsive design principles.",
+      "Firebase": "Knowledge of Firebase for backend services and data storage."
+    }
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Developer",
+    "company": "DesignTech Innovations",
+    "skills": ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS"],
+    "match": 0,
+    "description": "Join our UI/UX team to create visually stunning and user-friendly interfaces for our web and mobile applications. Experience with Tailwind CSS is a plus.",
+    "salary": "₹7,00,000 - ₹9,50,000",
+    "saved": false,
+    "requiredSkillDetails": {
+      "HTML": "Expertise in HTML5 and semantic markup.",
+      "CSS": "Proficiency in CSS preprocessors and responsive design.",
+      "JavaScript": "Experience with modern JavaScript frameworks.",
+      "React.js": "Strong understanding of React components and state management.",
+      "Tailwind CSS": "Experience implementing responsive designs using Tailwind CSS."
+    }
+  },
+  {
+    "id": 3,
+    "title": "Web Developer",
+    "company": "CodeCrafters Inc.",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    "match": 0,
+    "description": "We are looking for a Web Developer to contribute to the development and maintenance of our web applications, with a focus on both frontend and backend tasks. Knowledge of PHP and MySQL is essential.",
+    "salary": "₹6,00,000 - ₹8,50,000",
+    "saved": false,
+    "requiredSkillDetails": {
+      "HTML": "Solid understanding of HTML standards and best practices.",
+      "CSS": "Experience in styling web pages and creating responsive layouts.",
+      "JavaScript": "Proficiency in JavaScript programming and DOM manipulation.",
+      "PHP": "Backend development experience with PHP.",
+      "MySQL": "Experience with database design and querying using MySQL."
+    }
+  }
+]
+```

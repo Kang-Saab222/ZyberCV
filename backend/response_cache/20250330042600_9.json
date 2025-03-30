@@ -1,0 +1,128 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "Innovative Developer & Researcher",
+    "yearsExperience": 0.11,
+    "education": "Bachelor of Computer Application",
+    "location": "Alamgir, Ldh(141116)",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 70
+      },
+      {
+        "name": "Photoshop",
+        "level": 40
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 60
+      },
+      {
+        "name": "JavaScript",
+        "level": 50
+      },
+      {
+        "name": "C/C++",
+        "level": 30
+      },
+      {
+        "name": "React JS",
+        "level": 40
+      },
+      {
+        "name": "Java",
+        "level": 20
+      }
+    ],
+    "soft": [
+      {
+        "name": "Research",
+        "level": 80
+      },
+      {
+        "name": "Presentation Skills",
+        "level": 70
+      },
+      {
+        "name": "Passionate Learner",
+        "level": 90
+      },
+      {
+        "name": "Time Management",
+        "level": 60
+      }
+    ],
+    "jobMatchPercentage": 55
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "React Development",
+        "years": 0.11
+      },
+      {
+        "name": "AI Model Integration",
+        "years": 0.05
+      }
+    ],
+    "educationRelevance": 85,
+    "roles": [
+      {
+        "title": "React Js Intern",
+        "company": "THINK NEXT TECHNOLOGIES PVT. LTD",
+        "duration": "40 DAYS"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2025-04-04 09:00 AM",
+      "fileName": "Karanvir_Resume_v1.pdf",
+      "improvementPercent": 5,
+      "notes": "Added specific project links."
+    },
+    {
+      "date": "2025-04-03 05:30 PM",
+      "fileName": "Karanvir_Resume_v0.9.pdf",
+      "improvementPercent": 7,
+      "notes": "Included achievements in debating."
+    },
+    {
+      "date": "2025-04-02 02:15 PM",
+      "fileName": "Karanvir_Resume_v0.8.pdf",
+      "improvementPercent": 3,
+      "notes": "Simplified job description."
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 50000,
+      "max": 80000,
+      "average": 65000
+    },
+    "demandScore": 60,
+    "competitiveAdvantage": [
+      {
+        "skill": "Python",
+        "advantage": "Medium"
+      },
+      {
+        "skill": "React JS",
+        "advantage": "Low"
+      },
+      {
+        "skill": "Passionate Learner",
+        "advantage": "High"
+      }
+    ]
+  }
+}
+```

@@ -1,0 +1,124 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "React Js Intern",
+    "yearsExperience": 0.11,
+    "education": "Bachelor of Computer Application",
+    "location": "Alamgir, Ldh, India",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 70
+      },
+      {
+        "name": "React JS",
+        "level": 60
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 65
+      },
+      {
+        "name": "JavaScript",
+        "level": 55
+      },
+      {
+        "name": "Java",
+        "level": 30
+      },
+      {
+        "name": "C/C++",
+        "level": 40
+      },
+      {
+        "name": "Photoshop",
+        "level": 25
+      }
+    ],
+    "soft": [
+      {
+        "name": "Research",
+        "level": 70
+      },
+      {
+        "name": "Presentation Skills",
+        "level": 65
+      },
+      {
+        "name": "Time Management",
+        "level": 60
+      },
+      {
+        "name": "Passionate Learner",
+        "level": 80
+      }
+    ],
+    "jobMatchPercentage": 45
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "React Development",
+        "years": 0.11
+      },
+      {
+        "name": "Web Development",
+        "years": 0.11
+      }
+    ],
+    "educationRelevance": 75,
+    "roles": [
+      {
+        "title": "React Js Intern",
+        "company": "THINK NEXT TECHNOLOGIES PVT. LTD",
+        "duration": "40 DAYS"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2024-10-27 14:55 PM",
+      "fileName": "Resume_V1.pdf",
+      "improvementPercent": 5,
+      "notes": "Updated Education details"
+    },
+    {
+      "date": "2024-10-26 09:12 AM",
+      "fileName": "Resume_V0.9.pdf",
+      "improvementPercent": 3,
+      "notes": "Added Awards and Achievements"
+    },
+    {
+      "date": "2024-10-25 17:30 PM",
+      "fileName": "Resume_V0.8.pdf",
+      "improvementPercent": 2,
+      "notes": "Included Hobbies section"
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 20000,
+      "max": 40000,
+      "average": 30000
+    },
+    "demandScore": 30,
+    "competitiveAdvantage": [
+      {
+        "skill": "Python",
+        "advantage": "Low"
+      },
+      {
+        "skill": "React JS",
+        "advantage": "Low"
+      }
+    ]
+  }
+}
+```

@@ -1,0 +1,128 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "React Js Intern",
+    "yearsExperience": 0.11,
+    "education": "Bachelor of Computer Application",
+    "location": "Alamgir, Ldh, India",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 60
+      },
+      {
+        "name": "Photoshop",
+        "level": 30
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 45
+      },
+      {
+        "name": "JavaScript",
+        "level": 35
+      },
+      {
+        "name": "C/C++",
+        "level": 40
+      },
+      {
+        "name": "React JS",
+        "level": 50
+      },
+      {
+        "name": "Java",
+        "level": 20
+      }
+    ],
+    "soft": [
+      {
+        "name": "Research",
+        "level": 70
+      },
+      {
+        "name": "Presentation Skills",
+        "level": 65
+      },
+      {
+        "name": "Passionate Learner",
+        "level": 80
+      },
+      {
+        "name": "Time Management",
+        "level": 55
+      }
+    ],
+    "jobMatchPercentage": 45
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "Web Development",
+        "years": 0.11
+      },
+      {
+        "name": "AI Model Integration",
+        "years": 0.05
+      }
+    ],
+    "educationRelevance": 65,
+    "roles": [
+      {
+        "title": "React Js Intern",
+        "company": "THINK NEXT TECHNOLOGIES PVT. LTD",
+        "duration": "40 DAYS"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2025-03-29 09:15 AM",
+      "fileName": "Resume_Karanvir.pdf",
+      "improvementPercent": 5,
+      "notes": "Added personal projects showcasing AI skills."
+    },
+    {
+      "date": "2025-03-28 04:40 PM",
+      "fileName": "Resume_Karanvir_v2.pdf",
+      "improvementPercent": 3,
+      "notes": "Revised skills section to highlight relevant technologies."
+    },
+    {
+      "date": "2025-03-27 11:20 AM",
+      "fileName": "Resume_Karanvir_v1.pdf",
+      "improvementPercent": 2,
+      "notes": "Updated education details and SGPA scores."
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 25000,
+      "max": 45000,
+      "average": 35000
+    },
+    "demandScore": 30,
+    "competitiveAdvantage": [
+      {
+        "skill": "React JS",
+        "advantage": "Low"
+      },
+      {
+        "skill": "Python",
+        "advantage": "Medium"
+      },
+      {
+        "skill": "Research",
+        "advantage": "Low"
+      }
+    ]
+  }
+}
+```

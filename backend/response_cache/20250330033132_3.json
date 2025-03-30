@@ -1,0 +1,132 @@
+```json
+{
+  "candidate": {
+    "name": "Karanvir Singh",
+    "currentRole": "React Js Intern",
+    "yearsExperience": 0,
+    "education": "Bachelor of Computer Application",
+    "location": "Alamgir, Ldh, India",
+    "email": "104karanvirsingh@gmail.com",
+    "phone": "+917986034162",
+    "linkedin": null,
+    "photoUrl": null
+  },
+  "skillsAnalysis": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": 70
+      },
+      {
+        "name": "JavaScript",
+        "level": 60
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 65
+      },
+      {
+        "name": "React Js",
+        "level": 55
+      },
+      {
+        "name": "Java",
+        "level": 30
+      },
+      {
+        "name": "C/C++",
+        "level": 50
+      },
+      {
+        "name": "Photoshop",
+        "level": 40
+      }
+    ],
+    "soft": [
+      {
+        "name": "Research",
+        "level": 75
+      },
+      {
+        "name": "Presentation Skills",
+        "level": 70
+      },
+      {
+        "name": "Passionate Learner",
+        "level": 90
+      },
+      {
+        "name": "Time Management",
+        "level": 80
+      }
+    ],
+    "jobMatchPercentage": 65
+  },
+  "experienceInsights": {
+    "domains": [
+      {
+        "name": "Web Development",
+        "years": 0
+      },
+      {
+        "name": "AI Model Integration",
+        "years": 0
+      },
+      {
+        "name": "React Js",
+        "years": 0
+      }
+    ],
+    "educationRelevance": 85,
+    "roles": [
+      {
+        "title": "React Js Intern",
+        "company": "THINK NEXT TECHNOLOGIES PVT. LTD",
+        "duration": "40 DAYS"
+      }
+    ]
+  },
+  "improvements": [
+    {
+      "date": "2024-10-27 14:20 AM",
+      "fileName": "Resume_Karanvir_V1.pdf",
+      "improvementPercent": 15,
+      "notes": "Added project details and quantifiable achievements in education."
+    },
+    {
+      "date": "2024-10-27 14:20 AM",
+      "fileName": "Resume_Karanvir_V2.pdf",
+      "improvementPercent": 10,
+      "notes": "Revised skills section and re-organized information for better readability."
+    },
+    {
+      "date": "2024-10-27 14:20 AM",
+      "fileName": "Resume_Karanvir_V3.pdf",
+      "improvementPercent": 5,
+      "notes": "Enhanced personal statement to highlight key strengths and career goals."
+    }
+  ],
+  "marketAnalysis": {
+    "salaryRange": {
+      "min": 40000,
+      "max": 60000,
+      "average": 50000
+    },
+    "demandScore": 60,
+    "competitiveAdvantage": [
+      {
+        "skill": "React Js",
+        "advantage": "Medium"
+      },
+      {
+        "skill": "Python",
+        "advantage": "Low"
+      },
+      {
+        "skill": "Communication Skills",
+        "advantage": "Medium"
+      }
+    ]
+  }
+}
+```

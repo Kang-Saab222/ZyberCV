@@ -1,0 +1,80 @@
+{
+  "metrics": {
+    "overallScore": 20,
+    "confidence": 10,
+    "technicalScore": 10,
+    "communicationScore": 30
+  },
+  "keyInsights": [
+    "The candidate's responses are extremely brief and lack substance.",
+    "There is a significant communication barrier.",
+    "The candidate appears unprepared to answer the questions.",
+    "The response to the first question is incomplete and incomprehensible.",
+    "It's difficult to assess the candidate's technical skills based on these responses."
+  ],
+  "improvementAreas": [
+    "Provide complete and detailed answers to interview questions.",
+    "Practice articulating technical concepts clearly and concisely.",
+    "Prepare specific examples to illustrate your skills and experience.",
+    "Improve communication skills, including clarity and fluency."
+  ],
+  "strengths": [
+    {
+      "title": "Willingness to Engage",
+      "description": "The candidate attempts to answer the questions, indicating a willingness to participate in the interview."
+    },
+    {
+      "title": "Potential (Unseen)",
+      "description": "The candidate may possess relevant skills that are not apparent due to poor communication."
+    },
+    {
+      "title": "Basic Comprehension",
+      "description": "The candidate seems to understand the questions, even if their responses are inadequate."
+    }
+  ],
+  "focusAreas": [
+    {
+      "title": "STAR Method",
+      "description": "Learning and practicing the STAR method (Situation, Task, Action, Result) will help structure responses.",
+      "tip": "Use the STAR method to prepare examples for common interview questions."
+    },
+    {
+      "title": "Technical Vocabulary",
+      "description": "Expanding technical vocabulary and practicing explaining concepts will improve communication.",
+      "tip": "Review common technical terms and practice explaining them to a non-technical audience."
+    },
+    {
+      "title": "Practice Responses",
+      "description": "Rehearsing answers to common interview questions will build confidence and fluency.",
+      "tip": "Record yourself answering questions and analyze your performance."
+    }
+  ],
+  "questionResponses": [
+    {
+      "question": "1.  Describe a challenge you faced while maintaining the e-commerce website.",
+      "response": "Main Itna",
+      "responseScore": 5,
+      "feedback": "This response is incomprehensible and provides no information about the candidate's experience or skills. It is necessary to provide a comprehensive explanation to questions asked during the interview."
+    },
+    {
+      "question": "2.  Elaborate on the generative AI model you implemented with the team.",
+      "response": null,
+      "responseScore": 0,
+      "feedback": "There was no response recorded for this question. The candidate needs to provide a substantial answer detailing the model, their role, and the impact."
+    }
+  ],
+  "nextSteps": [
+    {
+      "title": "Practice Interview Scenarios",
+      "description": "Participate in mock interviews to gain experience and receive feedback."
+    },
+    {
+      "title": "Develop Detailed Examples",
+      "description": "Prepare specific examples of projects and accomplishments to illustrate your skills."
+    },
+    {
+      "title": "Improve Communication Skills",
+      "description": "Focus on clarity, conciseness, and fluency in your communication."
+    }
+  ]
+}
